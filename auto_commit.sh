@@ -5,8 +5,8 @@ repo_path="C:\Users\Black\Desktop\b6\bsix"  # Specify the path to your repositor
 cd "$repo_path"
 
 # Variables for date
-start_date="2023-12-01"
-end_date="2023-05-10"
+start_date="2023-01-10"
+end_date="2023-30-11"
 current_date="$start_date"
 
 while [ "$current_date" != "$end_date" ]; do
